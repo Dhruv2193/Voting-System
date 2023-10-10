@@ -1,6 +1,5 @@
 # Aadhaar Voting
 Aadhaar Based voting system using blockchain technology
-Project implemented as part of Rajasthan Hackathron
 
 ## Description
 
@@ -14,9 +13,6 @@ Project implemented as part of Rajasthan Hackathron
 
 ### Installing and Running Project
 
-Clone Project
-```
-git clone git@github.com:sanattaori/techdot.git && cd techdot
 ```
 Install Dependencies
 ```
@@ -46,8 +42,6 @@ Step 2 - Creating Voting Smart Contract
 ```
 npm install solc
 ```
-
-Replace your aadhaar no and phone number for running project at https://github.com/sanattaori/techdot/blob/7814403250f8b042992c6d437d9f9db8f98f3729/ui/js/app.js#L39
 
 Step 3 - Testing in node console
 
@@ -119,13 +113,6 @@ https://github.com/sanattaori/techdot/blob/cecabc1917965ed7404e4c444b7572c97e10d
 
 The Aadhaar based voting system is developed to overcome the flaws of EVM system. So directly EVM will be replaced by touch screen interface having the great
 user interface and high security.
-
-## Authors
-
-* **Sanat Taori**
-* **Akshay Motghare**
-* **Mandar Patil** 
-* **Aniket Narkhede**
 
 ## License
 
